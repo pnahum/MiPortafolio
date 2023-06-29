@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+body{
+    background-color: white;
+    padding: 15px;
+    width: 1920px;
+}
+nav{
+    height: 100px;
+    background-color: black;
+}
+.navbaricon{
+    /*filter: invert(13%) sepia(94%) saturate(7466%) hue-rotate(0deg) brightness(94%) contrast(115%);*/
+    filter: brightness(0) invert(1);
+}
+.navbarItems{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px 20px 0px 20px;
+    color: white;
+    font-family:'Open Sans', sans-serif;
+    font-size: 25px;
+}
+header{
+    background-image: url(../img/bg-hero.png);
+    height: 500px;
+}
+h1{
+    color: white;
+    font-family: 'open-sans', sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+    text-align: right;
+    width: 1200px;
+    padding: 150px 0px 0px 500px;
+}
+.charlas-header{
+    color: white;
+    font-family: 'open-sans', sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    text-align: right;
+    width: 1200px;
+    padding: 20px 0px 0px 500px;
+}
+.weworkImage{
+    margin: 200px 0px 0px 600px;
+    height: 400px;
+}
+.consulta-contacto{
+    font-family: 'open-sans', sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    padding: 20px 0px 0px 700px;
+}
+.contacto{
+    font-family: 'open-sans', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    padding: 20px 0px 0px 500px;
+    width: 800px;
+    text-align: center;
+}
+.sweet-brown{
+    background-color: brown;
+    height: 500px;
+    margin-bottom: 200px;
+}
+.charla-speaker{
+    display: inline-block;
+    margin: 100px 0px 0px 500px;
+}
+.charla-texto{
+    display: inline-block;
+    width: 700px;
+    margin: 0px 0px 0px 50px;
+    color: white;
+    font-family: 'open-sans', sans-serif;
+}
+.centrado{
+    display: inline-block;
+    margin-bottom: 100px;
+}
+.eventos{
+    height: 500px;
+    font-family: 'open-sans', sans-serif;
+    font-size: 35px;
+    margin-left: 0px;
+}
+.eventos-div{
+    margin-left: 200px;
+}
+.evento{
+    display: inline-block;
+    margin: 50px 50px 50px 50px;
+}
+
+footer{
+    height: 300px;
+    background-color: black;
+    color: white;
+    font-family: 'open-sans', sans-serif;
+    font-size: 25px;
+}
